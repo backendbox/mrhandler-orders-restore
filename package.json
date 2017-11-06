@@ -1,0 +1,19 @@
+{
+  "name": "mrhandler-orders-restore",
+  "version": "1.0.0",
+  "description": "Restore orders from Google Sheets",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backendbox/mrhandler-orders-restore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/backendbox/mrhandler-orders-restore/issues"
+  },
+  "homepage": "https://github.com/backendbox/mrhandler-orders-restore#readme"
+}
